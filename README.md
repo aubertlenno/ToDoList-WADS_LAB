@@ -1,5 +1,5 @@
 # ToDo App
 
-![documentation](.\img\table.png)
+![documentation](./img/table.png)
 
-<img src=".\img\fastapi-dashboard.png" alt="fastapi dashboard"  />
+![fastapi-dashboard](./img/fastapi-dashboard.png)
